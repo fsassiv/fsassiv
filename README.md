@@ -43,7 +43,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Mundiale](https://www.mundiale.com.br/) - Engenheiro de Software [Atual]
+- [Mundiale](https://www.mundiale.com.br/) - Engenheiro de Software [1 mês]
 
 - [Agilize Contabilide Online](https://www.agilize.com.br/) - Engenheiro de Software [8 meses]
 
@@ -94,6 +94,7 @@ Testes:
 
 ## PRETENSÃO SALARIAL
 
-- CLT: > R\$ 5.000,00 + Beneficios
+- CLT: > R\$ 6.500,00 + Beneficios
+- PJ: > R\$ 8.000,00
 
 _The future belongs to those who prepare for it today - Malcolm X_
