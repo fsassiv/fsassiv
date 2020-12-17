@@ -2,7 +2,7 @@
 
 > Front-end Web Developer (Vue & React)
 
-> Graduating on "Gestão de Tecnologia da Informação"
+> Graduate on "Gestão de Tecnologia da Informação"
 
 ### Languages: pt-BR, en-US
 
