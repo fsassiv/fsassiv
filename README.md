@@ -94,7 +94,7 @@ Testes:
 
 ## PRETENSÃO SALARIAL
 
-- CLT: > R\$ 6.500,00 + Beneficios
-- PJ: > R\$ 8.000,00
+- CLT: > R\$ 7.500,00 + Beneficios
+- PJ: > R\$ 8.500,00
 
 _The future belongs to those who prepare for it today - Malcolm X_
