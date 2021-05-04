@@ -43,7 +43,12 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
+- [Squadra Digital](https://www.squadra.com.br/) - Analista de sistemas [3 mes]
+- - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
+- Atividades: Atualização de portal parceiro. Manutenção e ajustes do sistema de atendimento ao cliente parceiro seguindo design system.
+
 - [Mundiale](https://www.mundiale.com.br/) - Engenheiro de Software [1 mes]
+- Atividades: Muntenção e atualização de portal de comunicação interna.
 
 - [Agilize Contabilide Online](https://www.agilize.com.br/) - Engenheiro de Software [8 meses]
 
