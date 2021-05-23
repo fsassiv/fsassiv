@@ -2,6 +2,7 @@
 
 > Front-end Web Developer (Vue & React)
 
+> Pós-graduando em Gestão de Projetos (Lato Sensu)
 > Graduado em "Gestão de Tecnologia da Informação" pela Uninter
 
 ### Languages: pt-BR, en-US
