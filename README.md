@@ -78,15 +78,15 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 ## PROTFÓLIO
 
 - [TECLA UP - Wordpress](https://teclaup.com/)
-<!-- - [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/) -->
-- [JUNIOR BARRETO](https://jrbarreto.com.br/)
-<!-- - [KEEP INFORMATICA - Wordpress](http://www.keepinformatica.com.br/) -->
-- [BLUM - Wordpress](http://www.blumdh.com.br/)
-- [TOPFY - Wordpress](http://topfy.net.br/)
-- [DECLARE ONLINE](http://declareonline.com.br)
+  <!-- - [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/) -->
+  <!-- - [KEEP INFORMATICA - Wordpress](http://www.keepinformatica.com.br/) -->
 - [HERMES LANDINGPAGE](http://wtf.inf.br/hermes/) "Projeto em finalizado"
 <!-- - [DRUMMOND](http://drummondpar.com) "mobile version" -->
+- [BLUM - Wordpress](http://www.blumdh.com.br/)
+- [TOPFY - Wordpress](http://topfy.net.br/)
 - [HERMES - Vue.js](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em não finalizado"
+- [DECLARE ONLINE](http://declareonline.com.br)
+- [JUNIOR BARRETO](https://jrbarreto.com.br/)
 
 Testes:
 
