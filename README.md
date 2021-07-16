@@ -44,7 +44,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Squadra Digital](https://www.squadra.com.br/) - Analista de sistemas [3 mes]
+- [Squadra Digital](https://www.squadra.com.br/) - Analista de sistemas [3 meses]
 - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
 - Atividades: Atualização de portal parceiro. Manutenção e ajustes do sistema de atendimento ao cliente parceiro seguindo design system.
 
