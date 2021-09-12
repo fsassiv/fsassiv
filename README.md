@@ -18,19 +18,19 @@
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
-| Beginner              | Intermediate                  | Advanced                       |
-| --------------------- | ----------------------------- | ------------------------------ |
-| Jest                  | Typescript                    | HTML                           |
-| GraphQL               | Vue.js (Vuex, Vue Router)     | CSS                            |
-| Firebase              | Webpack                       | SASS                           |
-| MySQL                 | Node.js (Express.js)          | Javascript                     |
-| Mongo DB              | Git                           | React (Redux, Context, Router) |
-| Storybook             | Gulp                          |                                |
-| Nuxt.js               | Php                           |                                |
-| Next.js               | Wordpress                     |                                |
-| React-testing-library | PWA                           |                                |
-|                       | CSS-IN-JS (styled-components) |                                |
-|                       |                               |                                |
+| Beginner  | Intermediate              | Advanced                       |
+| --------- | ------------------------- | ------------------------------ |
+| Jest      | Vue.js (Vuex, Vue Router) | HTML                           |
+| GraphQL   | Webpack                   | CSS                            |
+| Firebase  | Node.js (Express.js)      | SASS                           |
+| MySQL     | Gulp                      | Javascript                     |
+| Mongo DB  | Php                       | React (Redux, Context, Router) |
+| Storybook | Wordpress                 | Typescript                     |
+| Nuxt.js   | PWA                       | Git                            |
+| Next.js   | React-testing-library     | CSS-IN-JS (styled-components)  |
+|           |                           |                                |
+|           |                           |                                |
+|           |                           |                                |
 
 <!-- ### DevOps
 Jenkins, Docker -->
@@ -43,6 +43,14 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 <!-- Materialize CSS, Bulma CSS e Bootstrap. -->
 
 ## EXPERIÊNCIA PROFISSIONAL
+
+- [Rateio Digital](https://lp.rateiodigital.com.br/) - Desenvolvedor Front-end [07/2021 - atual]
+- Stack utilizada: Typescript, ReactJS, Material-UI.
+- Atividades: Atualização do sistemas, adição e features e manutenção, reescriva de nova versão sistemas, atualizações sistema legado.
+
+- [BetSul](https://www.betsul.com/loterias) - Desenvolvedor Front-end [12/2020 - atual]
+- Stack utilizada: Javascript, ReactJS.
+- Atividades: Atualização do sistemas, adição e features e manutenção.
 
 - [Squadra Digital](https://www.squadra.com.br/) - Analista de sistemas [3 meses]
 - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
