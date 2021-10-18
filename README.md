@@ -29,8 +29,6 @@
 | Nuxt.js   | PWA                   | Git                            |
 | Next.js   |                       | CSS-IN-JS (styled-components)  |
 |           |                       | Vue.js (Vuex, Vue Router)      |
-|           |                       |                                |
-|           |                       |                                |
 
 <!-- ### DevOps
 Jenkins, Docker -->
