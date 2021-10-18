@@ -43,19 +43,24 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 ## EXPERIÊNCIA PROFISSIONAL
 
 - [Rateio Digital](https://lp.rateiodigital.com.br/) - Desenvolvedor Front-end [07/2021 - atual]
-- Stack utilizada: Typescript, ReactJS, Material-UI.
-- Atividades: Atualização do sistemas, adição e features e manutenção, reescriva de nova versão sistemas, atualizações sistema legado.
+
+  - Stack utilizada: Typescript, ReactJS, Material-UI.
+  - Atividades: Atualização do sistemas, adição e features e manutenção, reescriva de nova versão sistemas, atualizações sistema legado.
 
 - [BetSul](https://www.betsul.com/loterias) - Desenvolvedor Front-end [12/2020 - atual]
-- Stack utilizada: Javascript, ReactJS.
-- Atividades: Atualização do sistemas, adição e features e manutenção.
+
+  - Stack utilizada: Javascript, ReactJS.
+  - Atividades: Atualização do sistemas, adição e features e manutenção.
 
 - [Squadra Digital](https://www.squadra.com.br/) - Analista de sistemas [3 meses]
-- Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
-- Atividades: Atualização de portal parceiro. Manutenção e ajustes do sistema de atendimento ao cliente parceiro seguindo design system.
+
+  - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
+  - Atividades: Atualização de portal parceiro. Manutenção e ajustes do sistema de atendimento ao cliente parceiro seguindo design system.
 
 - [Mundiale](https://www.mundiale.com.br/) - Engenheiro de Software [1 mes]
-- Atividades: Muntenção e atualização de portal de comunicação interna.
+
+  - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
+  - Atividades: Muntenção e atualização de portal de comunicação interna.
 
 - [Agilize Contabilide Online](https://www.agilize.com.br/) - Engenheiro de Software [8 meses]
 
