@@ -1,6 +1,6 @@
 # Flavio Santos de Andrade
 
-> Front-end Web Developer (Vue & React)
+> Senior Web Front-end Developer (Vue & React)
 
 > Pós-graduando em Gestão de Projetos (Lato Sensu)
 > Graduado em "Gestão de Tecnologia da Informação" pela Uninter
