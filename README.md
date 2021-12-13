@@ -42,42 +42,42 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Rateio Digital](https://app.stg.rdpay.com.br/pagamento/instituicao){:target="\_blank"} versao Dev - Desenvolvedor Front-end [07/2021 - atual]
+- [Rateio Digital](https://app.stg.rdpay.com.br/pagamento/instituicao) versao Dev - Desenvolvedor Front-end [07/2021 - atual]
 
   - Stack utilizada: Typescript, ReactJS, Material-UI.
   - Atividades: Atualização do sistemas, adição e features e manutenção, reescriva de nova versão sistemas, atualizações sistema legado.
 
-- [BetSul](https://www.betsul.com/loterias){:target="\_blank"} - Desenvolvedor Front-end [12/2020 - atual]
+- [BetSul](https://www.betsul.com/loterias) - Desenvolvedor Front-end [12/2020 - atual]
 
   - Stack utilizada: Javascript, ReactJS.
   - Atividades: Atualização do sistemas, adição e features e manutenção.
 
-- [Squadra Digital](https://www.squadra.com.br/){:target="\_blank"} - Analista de sistemas [3 meses]
+- [Squadra Digital](https://www.squadra.com.br/) - Analista de sistemas [3 meses]
 
   - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
   - Atividades: Atualização de portal parceiro. Manutenção e ajustes do sistema de atendimento ao cliente parceiro seguindo design system.
 
-- [Mundiale](https://www.mundiale.com.br/){:target="\_blank"} - Engenheiro de Software [1 mes]
+- [Mundiale](https://www.mundiale.com.br/) - Engenheiro de Software [1 mes]
 
   - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
   - Atividades: Muntenção e atualização de portal de comunicação interna.
 
-- [Agilize Contabilide Online](https://www.agilize.com.br/){:target="\_blank"} - Engenheiro de Software [8 meses]
+- [Agilize Contabilide Online](https://www.agilize.com.br/) - Engenheiro de Software [8 meses]
 
   - Stack utilizada: Typescript, React, React Hooks, Context API Storybook, Jest, React-testing-library, styled-components, Material-UI;
   - Atividades: Atualização de sistema contábil legado e desenvolvimento de nova versão, desenvolvimento de design system seguindo padrões de UX.
 
-- [Ingenium Systems](https://ingenium-systems.com.br/){:target="\_blank"} - Desenvolvedor Front-end [5 meses]
+- [Ingenium Systems](https://ingenium-systems.com.br/) - Desenvolvedor Front-end [5 meses]
 
   - Stack utilizada: React, React Hooks, Redux, Redux-thunk;
   - Atividades: Atualização de aplicação, criação de interfaces do projeto de chatbot;
 
-- [WTF](https://www.wtf.inf.br/){:target="\_blank"} - Desenvolvedor Front-end Jr [6 meses]
+- [WTF](https://www.wtf.inf.br/) - Desenvolvedor Front-end Jr [6 meses]
 
   - Stack utilizada: Vue.js, Sass, Express;
   - Atividades: Projetos diversos com foco em criação de interfaces e usabilidade;
 
-- [Player 2](https://player2.tech/sobre-a-player-2/){:target="\_blank"} - Estagio Front-end [5 meses]
+- [Player 2](https://player2.tech/sobre-a-player-2/) - Estagio Front-end [5 meses]
 
   - Stack utilizada: Wordpress, php, javascript, sass;
   - Atividades: Criação de websites corporativos e institucionais;
@@ -89,7 +89,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 ## PROTFÓLIO
 
 - [Betsul Loterias](https://www.betsul.com/loterias)
-- [Rateio Digital](https://app.stg.rdpay.com.br/pagamento/instituicao){:target="\_blank"}
+- [Rateio Digital](https://app.stg.rdpay.com.br/pagamento/instituicao)
 - [Pottencial Seguradora](https://pottencial.com.br/)
 - [TECLA UP - Wordpress](https://teclaup.com/)
   <!-- - [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/) -->
