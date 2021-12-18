@@ -82,7 +82,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
   - Stack utilizada: Wordpress, php, javascript, sass;
   - Atividades: Criação de websites corporativos e institucionais;
 
-- Keep Informatica - Estagio Front-end [5 meses]
+- [Keep Informatica](http://keepinformatica.com.br/) - Estagio Front-end [5 meses]
   - Stack utilizada: Wordpress, php, javascript, sass;
   - Atividades: Helpdesk e atualização/manutenção do site atual da empresa.
 
