@@ -74,16 +74,16 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 - [WTF](https://www.wtf.inf.br/) - Desenvolvedor Front-end Jr [6 meses]
 
-  - Stack utilizada: Vue.js, Sass, Express;
+  - Stack utilizada: Javascript, Vue.js, Sass, Express;
   - Atividades: Projetos diversos com foco em criação de interfaces e usabilidade;
 
 - [Player 2](https://player2.tech/sobre-a-player-2/) - Estagio Front-end [5 meses]
 
-  - Stack utilizada: Wordpress, php, javascript, sass;
+  - Stack utilizada: Wordpress, Php, Javascript, Sass;
   - Atividades: Criação de websites corporativos e institucionais;
 
 - [Keep Informatica](http://keepinformatica.com.br/) - Estagio Front-end [5 meses]
-  - Stack utilizada: Wordpress, php, javascript, sass;
+  - Stack utilizada: Wordpress, Php, Javascript, Sass;
   - Atividades: Helpdesk e atualização/manutenção do site atual da empresa.
 
 ## PROTFÓLIO
