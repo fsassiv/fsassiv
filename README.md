@@ -35,7 +35,7 @@ Jenkins, Docker -->
 
 ### Extra skills
 
-Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, SPA, PWA, Design Pattern.
+Functional Programming, POO Javascript, Javascript ES6+, TDD & BDD, REST API, SPA, PWA, Design Pattern.
 Metodologia BEM, RSCSS, ITCSS e DRY.
 
 <!-- Materialize CSS, Bulma CSS e Bootstrap. -->
@@ -91,6 +91,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 - [Betsul Loterias](https://www.betsul.com/loterias)
 - [Rateio Digital](https://app.rdpay.com.br/pagamento/instituicao)
 - [Pottencial Seguradora](https://pottencial.com.br/)
+- [HERMES - Vue.js](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em não finalizado"
 - [TECLA UP - Wordpress](https://teclaup.com/)
   <!-- - [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/) -->
   <!-- - [KEEP INFORMATICA - Wordpress](http://www.keepinformatica.com.br/) -->
@@ -98,7 +99,6 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 <!-- - [DRUMMOND](http://drummondpar.com) "mobile version" -->
 - [BLUM - Wordpress](http://www.blumdh.com.br/)
 - [TOPFY - Wordpress](http://topfy.net.br/)
-- [HERMES - Vue.js](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em não finalizado"
 - [DECLARE ONLINE](http://declareonline.com.br)
 - [JUNIOR BARRETO](https://jrbarreto.com.br/)
 
