@@ -42,7 +42,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Rateio Digital](https://app.stg.rdpay.com.br/pagamento/instituicao){:target="\_blank"} versao Dev - Desenvolvedor Front-end [07/2021 - atual]
+- [Rateio Digital](https://app.rdpay.com.br/pagamento/instituicao){:target="\_blank"} - Desenvolvedor Front-end [07/2021 - atual]
 
   - Stack utilizada: Typescript, ReactJS, Material-UI.
   - Atividades: Atualização do sistemas, adição e features e manutenção, reescriva de nova versão sistemas, atualizações sistema legado.
