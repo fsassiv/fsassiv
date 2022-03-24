@@ -35,19 +35,24 @@ Jenkins, Docker -->
 
 ### Extra skills
 
-Functional Programming, POO Javascript, Javascript ES6+, TDD & BDD, REST API, SPA, PWA, Design Pattern.
+Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, SPA, PWA, Design Pattern.
 Metodologia BEM, RSCSS, ITCSS e DRY.
 
 <!-- Materialize CSS, Bulma CSS e Bootstrap. -->
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- Mazza FC - Projetos:[Rateio Digital](https://www.rateiodigital.com.br/), Hapvida - Desenvolvedor Front-end [07/2021 - atual]
+- [Imagine Beyond](https://www.imaginebeyond.com.br/) - Projeto: [Warren Investimentos](https://warren.com.br/app/#/signin)
+
+  - Stack utilizada: Typescript, Vue, vue-testing-library
+  - Atividades: Atualização do sistemas, adição e features e manutenção.
+
+- [Mazza FC](https://mazzafc.tech/) - Projetos: [Rateio Digital](https://www.rateiodigital.com.br/), Hapvida [Sistemas internos] - [07/2021 - atual]
 
   - Stack utilizada: Typescript, ReactJS, Material-UI.
-  - Atividades: Atualização do sistemas, adição e features e manutenção, reescriva de nova versão sistemas, atualizações sistema legado.
+  - Atividades: Atualização do sistemas, adição e features e manutenção, reescrita de nova versão sistemas, atualizações sistema legado.
 
-- [BetSul](https://www.betsul.com/loterias) - Desenvolvedor Front-end [12/2020 - 03/2022]
+- [BetSul](https://www.betsul.com/loterias) - [16 meses]
 
   - Stack utilizada: Javascript, ReactJS.
   - Atividades: Atualização do sistemas, adição e features e manutenção.
@@ -57,33 +62,28 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
   - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
   - Atividades: Atualização de portal parceiro. Manutenção e ajustes do sistema de atendimento ao cliente parceiro seguindo design system.
 
-- [Mundiale](https://www.mundiale.com.br/) - Engenheiro de Software [1 mes]
-
-  - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
-  - Atividades: Muntenção e atualização de portal de comunicação interna.
-
 - [Agilize Contabilide Online](https://www.agilize.com.br/) - Engenheiro de Software [8 meses]
 
   - Stack utilizada: Typescript, React, React Hooks, Context API Storybook, Jest, React-testing-library, styled-components, Material-UI;
   - Atividades: Atualização de sistema contábil legado e desenvolvimento de nova versão, desenvolvimento de design system seguindo padrões de UX.
 
-- [Ingenium Systems](https://ingenium-systems.com.br/) - Desenvolvedor Front-end [5 meses]
+- [Ingenium Systems](https://ingenium-systems.com.br/) - [5 meses]
 
   - Stack utilizada: React, React Hooks, Redux, Redux-thunk;
   - Atividades: Atualização de aplicação, criação de interfaces do projeto de chatbot;
 
 - [WTF](https://www.wtf.inf.br/) - Desenvolvedor Front-end Jr [6 meses]
 
-  - Stack utilizada: Javascript, Vue.js, Sass, Express;
+  - Stack utilizada: Vue.js, Sass, Express;
   - Atividades: Projetos diversos com foco em criação de interfaces e usabilidade;
 
 - [Player 2](https://player2.tech/sobre-a-player-2/) - Estagio Front-end [5 meses]
 
-  - Stack utilizada: Wordpress, Php, Javascript, Sass;
+  - Stack utilizada: Wordpress, php, javascript, sass;
   - Atividades: Criação de websites corporativos e institucionais;
 
-- [Keep Informatica](http://keepinformatica.com.br/) - Estagio Front-end [5 meses]
-  - Stack utilizada: Wordpress, Php, Javascript, Sass;
+- Keep Informatica - Estagio Front-end [5 meses]
+  - Stack utilizada: Wordpress, php, javascript, sass;
   - Atividades: Helpdesk e atualização/manutenção do site atual da empresa.
 
 ## PROTFÓLIO
@@ -92,7 +92,6 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 - [Mazza FC: Rateio Digital](https://app.rdpay.com.br/pagamento/instituicao)
 - [Pottencial Seguradora](https://pottencial.com.br/)
 
-- [HERMES - Vue.js](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em não finalizado"
 - [TECLA UP - Wordpress](https://teclaup.com/)
   <!-- - [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/) -->
   <!-- - [KEEP INFORMATICA - Wordpress](http://www.keepinformatica.com.br/) -->
@@ -100,6 +99,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 <!-- - [DRUMMOND](http://drummondpar.com) "mobile version" -->
 - [BLUM - Wordpress](http://www.blumdh.com.br/)
 - [TOPFY - Wordpress](http://topfy.net.br/)
+- [HERMES - Vue.js](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em não finalizado"
 - [DECLARE ONLINE](http://declareonline.com.br)
 - [JUNIOR BARRETO](https://jrbarreto.com.br/)
 
@@ -115,7 +115,7 @@ Testes:
 
 ## PRETENSÃO SALARIAL
 
-- CLT: > R\$ 9.500,00 + Beneficios
-- PJ: > R\$ 12.000,00
+- CLT: > R\$ 10.000,00 + Beneficios
+- PJ: > R\$ 13.000,00
 
 _The future belongs to those who prepare for it today - Malcolm X_
