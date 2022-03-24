@@ -42,12 +42,12 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Rateio Digital](https://www.rateiodigital.com.br/) - Desenvolvedor Front-end [07/2021 - atual]
+- Mazza FC - Projetos:[Rateio Digital](https://www.rateiodigital.com.br/), Hapvida - Desenvolvedor Front-end [07/2021 - atual]
 
   - Stack utilizada: Typescript, ReactJS, Material-UI.
   - Atividades: Atualização do sistemas, adição e features e manutenção, reescriva de nova versão sistemas, atualizações sistema legado.
 
-- [BetSul](https://www.betsul.com/loterias) - Desenvolvedor Front-end [12/2020 - atual]
+- [BetSul](https://www.betsul.com/loterias) - Desenvolvedor Front-end [12/2020 - 03/2022]
 
   - Stack utilizada: Javascript, ReactJS.
   - Atividades: Atualização do sistemas, adição e features e manutenção.
@@ -89,8 +89,9 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 ## PROTFÓLIO
 
 - [Betsul Loterias](https://www.betsul.com/loterias)
-- [Rateio Digital](https://app.rdpay.com.br/pagamento/instituicao)
+- [Mazza FC: Rateio Digital](https://app.rdpay.com.br/pagamento/instituicao)
 - [Pottencial Seguradora](https://pottencial.com.br/)
+
 - [HERMES - Vue.js](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em não finalizado"
 - [TECLA UP - Wordpress](https://teclaup.com/)
   <!-- - [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/) -->
