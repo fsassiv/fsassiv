@@ -42,12 +42,17 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Rateio Digital](https://app.rdpay.com.br/pagamento/instituicao) - Desenvolvedor Front-end [07/2021 - atual]
+- [Imagine Beyond](https://www.imaginebeyond.com.br/) - Projeto: [Warren Investimentos](https://warren.com.br/app/#/signin)
+
+  - Stack utilizada: Typescript, Vue, vue-testing-library
+  - Atividades: Atualização do sistemas, adição e features e manutenção.
+
+- [Mazza FC](https://mazzafc.tech/) - Projetos: [Rateio Digital](https://www.rateiodigital.com.br/), Hapvida [Sistemas internos] - [07/2021 - atual]
 
   - Stack utilizada: Typescript, ReactJS, Material-UI.
-  - Atividades: Atualização do sistemas, adição e features e manutenção, reescriva de nova versão sistemas, atualizações sistema legado.
+  - Atividades: Atualização do sistemas, adição e features e manutenção, reescrita de nova versão sistemas, atualizações sistema legado.
 
-- [BetSul](https://www.betsul.com/loterias) - Desenvolvedor Front-end [12/2020 - atual]
+- [BetSul](https://www.betsul.com/loterias) - [16 meses]
 
   - Stack utilizada: Javascript, ReactJS.
   - Atividades: Atualização do sistemas, adição e features e manutenção.
@@ -62,7 +67,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
   - Stack utilizada: Typescript, React, React Hooks, Context API Storybook, Jest, React-testing-library, styled-components, Material-UI;
   - Atividades: Atualização de sistema contábil legado e desenvolvimento de nova versão, desenvolvimento de design system seguindo padrões de UX.
 
-- [Ingenium Systems](https://ingenium-systems.com.br/) - Desenvolvedor Front-end [5 meses]
+- [Ingenium Systems](https://ingenium-systems.com.br/) - [5 meses]
 
   - Stack utilizada: React, React Hooks, Redux, Redux-thunk;
   - Atividades: Atualização de aplicação, criação de interfaces do projeto de chatbot;
@@ -84,8 +89,9 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 ## PROTFÓLIO
 
 - [Betsul Loterias](https://www.betsul.com/loterias)
-- [Rateio Digital](https://app.rdpay.com.br/pagamento/instituicao)
+- [Mazza FC: Rateio Digital](https://app.rdpay.com.br/pagamento/instituicao)
 - [Pottencial Seguradora](https://pottencial.com.br/)
+
 - [TECLA UP - Wordpress](https://teclaup.com/)
   <!-- - [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/) -->
   <!-- - [KEEP INFORMATICA - Wordpress](http://www.keepinformatica.com.br/) -->
