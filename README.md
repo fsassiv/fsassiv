@@ -42,15 +42,15 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Imagine Beyond](https://www.imaginebeyond.com.br/) - Projeto: [Warren Investimentos](https://warren.com.br/app/#/signin)
-
-  - Stack utilizada: Typescript, Vue, vue-testing-library
-  - Atividades: Atualização do sistemas, adição e features e manutenção.
-
 - [Mazza FC](https://mazzafc.tech/) - Projetos: [Rateio Digital](https://www.rateiodigital.com.br/), Hapvida [Sistemas internos] - [07/2021 - atual]
 
   - Stack utilizada: Typescript, ReactJS, Material-UI.
   - Atividades: Atualização do sistemas, adição e features e manutenção, reescrita de nova versão sistemas, atualizações sistema legado.
+
+- [Imagine Beyond](https://www.imaginebeyond.com.br/) - Projeto: [Warren Investimentos](https://warren.com.br/app/#/signin), RLF - 11 meses
+
+  - Stack utilizada: Typescript, Vue, vue-testing-library
+  - Atividades: Atualização do sistemas, adição e features e manutenção.
 
 - [BetSul](https://www.betsul.com/loterias) - [16 meses]
 
@@ -115,6 +115,7 @@ Testes:
 
 ## PRETENSÃO SALARIAL
 
-- \> R\$ 12.000,00
+- PJ \> R\$ 12.000,00
+- CLT \> R\$ 10.500,00
 
 _The future belongs to those who prepare for it today - Malcolm X_
