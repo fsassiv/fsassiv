@@ -1,7 +1,6 @@
 # Flavio Santos de Andrade
 
 > Front-end Developer (React and Vue)
-
 > Pós-graduando em Gestão de Projetos Ágeis (Lato Sensu)
 > Graduado em "Gestão de Tecnologia da Informação" pela Uninter
 
@@ -14,7 +13,7 @@
 
 ---
 
-## Skills Set:
+## Skills Set
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
@@ -47,12 +46,22 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
   - Stack utilizada: Typescript, ReactJS, Material-UI.
   - Atividades: Atualização do sistemas, adição e features e manutenção, reescrita de nova versão sistemas, atualizações sistema legado.
 
-- [Imagine Beyond](https://www.imaginebeyond.com.br/) - Projeto: [Warren Investimentos](https://warren.com.br/app/#/signin), RLF - 11 meses
+- [Super Bid](https://www.superbid.net/) - [8 meses]
+
+  - Stack utilizada: Typescript, Javascript, React, StyledComponents, Material-UI
+  - Atividades: Atualização do sistemas em Micro FrontEnd, adição e features e manutenção.
+
+- [Imagine Beyond](https://www.imaginebeyond.com.br/) - Projeto: [Warren Investimentos](https://warren.com.br/app/#/signin), RLP - [1 ano e 2 meses]
 
   - Stack utilizada: Typescript, Vue, vue-testing-library
   - Atividades: Atualização do sistemas, adição e features e manutenção.
 
-- [BetSul](https://www.betsul.com/loterias) - [16 meses]
+- [K2 PARTNERING SOLUTIONS DO BRASIL CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA](https://k2partnering.com/) - Projeto: [Docway](https://docway.com.br/) - 12 meses.
+
+  - Stack utilizada: Typescript, Javascript, ReactJS, StyledComponents.
+  - Atividades: Atualização do sistemas de Telemedicina, adição e features e manutenção.
+
+- [BetSul](https://www.betsul.com/loterias) - [1 ano e 4 meses]
 
   - Stack utilizada: Javascript, ReactJS.
   - Atividades: Atualização do sistemas, adição e features e manutenção.
