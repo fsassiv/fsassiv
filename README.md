@@ -95,20 +95,17 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
   - Stack utilizada: Wordpress, php, javascript, sass;
   - Atividades: Helpdesk e atualização/manutenção do site atual da empresa.
 
-## PROTFÓLIO
+<!-- ## PROTFÓLIO
 
 - [Betsul Loterias](https://www.betsul.com/loterias)
 - [Mazza FC: Rateio Digital](https://app.rdpay.com.br/pagamento/instituicao)
 - [Pottencial Seguradora](https://pottencial.com.br/)
 
 - [TECLA UP - Wordpress](https://teclaup.com/)
-  <!-- - [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/) -->
-  <!-- - [KEEP INFORMATICA - Wordpress](http://www.keepinformatica.com.br/) -->
-- [HERMES LANDINGPAGE](http://wtf.inf.br/hermes/) "Projeto em finalizado"
-<!-- - [DRUMMOND](http://drummondpar.com) "mobile version" -->
+- [HERMES LANDINGPAGE](http://wtf.inf.br/hermes/) "Projeto não finalizado"
 - [BLUM - Wordpress](http://www.blumdh.com.br/)
 - [TOPFY - Wordpress](http://topfy.net.br/)
-- [HERMES - Vue.js](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em não finalizado"
+- [HERMES - Vue.js](https://relaxed-lovelace-47c83d.netlify.com) "Projeto não finalizado"
 - [DECLARE ONLINE](http://declareonline.com.br)
 - [JUNIOR BARRETO](https://jrbarreto.com.br/)
 
@@ -120,7 +117,7 @@ Testes:
 - [Teste em React I](https://fsassiv.github.io/fluent/)
 
 - [Teste Vue.js simples PWA](https://thirsty-edison-a3034a.netlify.com/)
-- [Teste Vue.js](https://fsassiv.github.io/tmdbclose/)
+- [Teste Vue.js](https://fsassiv.github.io/tmdbclose/) -->
 
 ## PRETENSÃO SALARIAL
 
