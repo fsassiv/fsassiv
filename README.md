@@ -76,7 +76,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
   - Stack utilizada: Typescript, React, React Hooks, Context API Storybook, Jest, React-testing-library, styled-components, Material-UI;
   - Atividades: Atualização de sistema contábil legado e desenvolvimento de nova versão, desenvolvimento de design system seguindo padrões de UX.
 
-- [Ingenium Systems](https://ingenium-systems.com.br/) - [5 meses]
+<!-- - [Ingenium Systems](https://ingenium-systems.com.br/) - [5 meses]
 
   - Stack utilizada: React, React Hooks, Redux, Redux-thunk;
   - Atividades: Atualização de aplicação, criação de interfaces do projeto de chatbot;
@@ -93,7 +93,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 - Keep Informatica - Estagio Front-end [5 meses]
   - Stack utilizada: Wordpress, php, javascript, sass;
-  - Atividades: Helpdesk e atualização/manutenção do site atual da empresa.
+  - Atividades: Helpdesk e atualização/manutenção do site atual da empresa. -->
 
 <!-- ## PROTFÓLIO
 
