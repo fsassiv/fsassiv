@@ -17,17 +17,17 @@
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
-| Beginner  | Intermediate          | Advanced                       |
-| --------- | --------------------- | ------------------------------ |
-| Jest      | React-testing-library | HTML                           |
-| GraphQL   | Webpack               | CSS                            |
-| Firebase  | Node.js (Express.js)  | SASS                           |
-| MySQL     | Gulp                  | Javascript                     |
-| Mongo DB  | Php                   | React (Redux, Context, Router) |
-| Storybook | Wordpress             | Typescript                     |
-| Nuxt.js   | PWA                   | Git                            |
-| Next.js   |                       | CSS-IN-JS (styled-components)  |
-|           |                       | Vue.js (Vuex, Vue Router)      |
+| Beginner     | Intermediate          | Advanced                       |
+| ------------ | --------------------- | ------------------------------ |
+| Jest         | React-testing-library | HTML                           |
+| GraphQL      | Webpack               | CSS                            |
+| Firebase     | Node.js (Express.js)  | SASS                           |
+| MySQL        | Gulp                  | Javascript                     |
+| Mongo DB     | Php                   | React (Redux, Context, Router) |
+| Storybook    | Wordpress             | Typescript                     |
+| Nuxt.js      | PWA                   | Git                            |
+| Next.js      |                       | CSS-IN-JS (styled-components)  |
+| React Native |                       | Vue.js (Vuex, Vue Router)      |
 
 <!-- ### DevOps
 Jenkins, Docker -->
