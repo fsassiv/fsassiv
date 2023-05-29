@@ -121,7 +121,7 @@ Testes:
 
 ## PRETENSÃO SALARIAL
 
-- PJ \> R\$ 12.000,00
-- CLT \> R\$ 10.500,00
+- PJ \> R\$ 11.000,00
+- CLT \> R\$ 9.500,00
 
 _The future belongs to those who prepare for it today - Malcolm X_
