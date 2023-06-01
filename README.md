@@ -32,11 +32,6 @@
 <!-- ### DevOps
 Jenkins, Docker -->
 
-### Extra skills
-
-Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, SPA, PWA, Design Pattern.
-Metodologia BEM, RSCSS, ITCSS e DRY.
-
 <!-- Materialize CSS, Bulma CSS e Bootstrap. -->
 
 ## EXPERIÊNCIA PROFISSIONAL
