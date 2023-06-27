@@ -36,11 +36,6 @@ Jenkins, Docker -->
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Mazza FC](https://mazzafc.tech/) - Projetos: [Rateio Digital](https://www.rateiodigital.com.br/), Hapvida [Sistemas internos] - [07/2021 - atual]
-
-  - Stack utilizada: Typescript, ReactJS, Material-UI.
-  - Atividades: Atualização do sistemas, adição e features e manutenção, reescrita de nova versão sistemas, atualizações sistema legado.
-
 - [Super Bid](https://www.superbid.net/) - [8 meses]
 
   - Stack utilizada: Typescript, Javascript, React, StyledComponents, Material-UI
@@ -50,6 +45,11 @@ Jenkins, Docker -->
 
   - Stack utilizada: Typescript, Vue, vue-testing-library
   - Atividades: Atualização do sistemas, adição e features e manutenção.
+
+- [Mazza FC](https://mazzafc.tech/) - Projetos: [Rateio Digital](https://www.rateiodigital.com.br/), Hapvida [Sistemas internos] - [2 anos]
+
+  - Stack utilizada: Typescript, ReactJS, Material-UI.
+  - Atividades: Atualização do sistemas, adição e features e manutenção, reescrita de nova versão sistemas, atualizações sistema legado.
 
 - [K2 PARTNERING SOLUTIONS DO BRASIL CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA](https://k2partnering.com/) - Projeto: [Docway](https://docway.com.br/) - 12 meses.
 
