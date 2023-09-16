@@ -114,9 +114,9 @@ Testes:
 - [Teste Vue.js simples PWA](https://thirsty-edison-a3034a.netlify.com/)
 - [Teste Vue.js](https://fsassiv.github.io/tmdbclose/) -->
 
-## PRETENSÃO SALARIAL
+<!-- ## PRETENSÃO SALARIAL
 
 - PJ \> R\$ 10.000,00
-- CLT \> R\$ 9.000,00
+- CLT \> R\$ 9.000,00 -->
 
 _The future belongs to those who prepare for it today - Malcolm X_
