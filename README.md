@@ -36,7 +36,7 @@ Jenkins, Docker -->
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Super Bid](https://www.superbid.net/) - [julho/2023 - atual]
+- [Super Bid](https://www.superbid.net/) - [julho/2022 - atual]
 
   - Stack utilizada: Typescript, Javascript, React, StyledComponents, Material-UI
   - Atividades: Atualização do sistemas em Micro FrontEnd, adição e features e manutenção.
