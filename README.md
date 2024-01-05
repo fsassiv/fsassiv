@@ -24,18 +24,13 @@
 | Firebase     | Node.js (Express.js)  | SASS                           |
 | MySQL        | Gulp                  | Javascript                     |
 | Mongo DB     | Php                   | React (Redux, Context, Router) |
-| Storybook    | Wordpress             | Typescript                     |
-| Nuxt.js      | PWA                   | Git                            |
-| Next.js      |                       | CSS-IN-JS (styled-components)  |
-| React Native |                       | Vue.js (Vuex, Vue Router)      |
+| Nuxt.js      | Wordpress             | Typescript                     |
+| Next.js      | PWA                   | Git                            |
+| React Native | Storybook             | CSS-IN-JS (styled-components)  |
+|              |                       | Vue.js (Vuex, Vue Router)      |
 
 <!-- ### DevOps
 Jenkins, Docker -->
-
-### Extra skills
-
-Functional Programming, POO Javascript, Javascript ES6+,TDD, REST API, SPA, PWA, Design Pattern.
-Metodologia BEM, RSCSS, ITCSS e DRY.
 
 <!-- Materialize CSS, Bulma CSS e Bootstrap. -->
 
@@ -55,6 +50,11 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
   - Stack utilizada: Typescript, Vue, vue-testing-library
   - Atividades: Atualização do sistemas, adição e features e manutenção.
+
+- [Mazza FC](https://mazzafc.tech/) - Projetos: [Rateio Digital](https://www.rateiodigital.com.br/), Hapvida [Sistemas internos] - [2 anos]
+
+  - Stack utilizada: Typescript, ReactJS, Material-UI.
+  - Atividades: Atualização do sistemas, adição e features e manutenção, reescrita de nova versão sistemas, atualizações sistema legado.
 
 - [K2 PARTNERING SOLUTIONS DO BRASIL CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA](https://k2partnering.com/) - Projeto: [Docway](https://docway.com.br/) - 12 meses.
 
@@ -119,9 +119,9 @@ Testes:
 - [Teste Vue.js simples PWA](https://thirsty-edison-a3034a.netlify.com/)
 - [Teste Vue.js](https://fsassiv.github.io/tmdbclose/) -->
 
-## PRETENSÃO SALARIAL
+<!-- ## PRETENSÃO SALARIAL
 
-- PJ \> R\$ 12.000,00
-- CLT \> R\$ 10.500,00
+- PJ \> R\$ 10.000,00
+- CLT \> R\$ 9.000,00 -->
 
 _The future belongs to those who prepare for it today - Malcolm X_
