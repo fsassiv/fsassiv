@@ -7,7 +7,7 @@
 ### Languages: pt-BR, en-US
 
 - [Linkedin](https://www.linkedin.com/in/flavio-andrade-900552192/)
-- Email: flavio.ssiv@gmail.com
+- Email: <flavio.ssiv@gmail.com>
 - [071982320674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
 - Location: Salvador-BA
 
@@ -41,15 +41,15 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Mazza FC](https://mazzafc.tech/) - Projetos: [Rateio Digital](https://www.rateiodigital.com.br/), Hapvida [Sistemas internos] - [07/2021 - atual]
-
-  - Stack utilizada: Typescript, ReactJS, Material-UI.
-  - Atividades: Atualização do sistemas, adição e features e manutenção, reescrita de nova versão sistemas, atualizações sistema legado.
-
-- [Super Bid](https://www.superbid.net/) - [8 meses]
+- [Super Bid](https://www.superbid.net/) - [1 ano e 8 meses]
 
   - Stack utilizada: Typescript, Javascript, React, StyledComponents, Material-UI
   - Atividades: Atualização do sistemas em Micro FrontEnd, adição e features e manutenção.
+
+- [Mazza FC](https://mazzafc.tech/) - Projetos: [Rateio Digital](https://www.rateiodigital.com.br/), Hapvida [Sistemas internos] - [2 anos]
+
+  - Stack utilizada: Typescript, ReactJS, Material-UI.
+  - Atividades: Atualização do sistemas, adição e features e manutenção, reescrita de nova versão sistemas, atualizações sistema legado.
 
 - [Imagine Beyond](https://www.imaginebeyond.com.br/) - Projeto: [Warren Investimentos](https://warren.com.br/app/#/signin), RLP - [1 ano e 2 meses]
 
@@ -61,10 +61,10 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
   - Stack utilizada: Typescript, Javascript, ReactJS, StyledComponents.
   - Atividades: Atualização do sistemas de Telemedicina, adição e features e manutenção.
 
-- [BetSul](https://www.betsul.com/loterias) - [1 ano e 4 meses]
+<!-- - [BetSul](https://www.betsul.com/loterias) - [1 ano e 4 meses]
 
   - Stack utilizada: Javascript, ReactJS.
-  - Atividades: Atualização do sistemas, adição e features e manutenção.
+  - Atividades: Atualização do sistemas, adição e features e manutenção. -->
 
 - [Squadra Digital](https://www.squadra.com.br/) - Analista de sistemas [3 meses]
 
