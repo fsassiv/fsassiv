@@ -25,9 +25,9 @@
 | MySQL        | Gulp                  | Javascript                     |
 | Mongo DB     | Php                   | React (Redux, Context, Router) |
 | Nuxt.js      | Wordpress             | Typescript                     |
-| Next.js      | PWA                   | Git                            |
-| React Native | Storybook             | CSS-IN-JS (styled-components)  |
-|              |                       | Vue.js (Vuex, Vue Router)      |
+| React Native | PWA                   | Git                            |
+|              | Storybook             | CSS-IN-JS (styled-components)  |
+|              | Next.js               | Vue.js (Vuex, Vue Router)      |
 
 <!-- ### DevOps
 Jenkins, Docker -->
@@ -61,10 +61,10 @@ Jenkins, Docker -->
   - Stack utilizada: Javascript, ReactJS.
   - Atividades: Atualização do sistemas, adição e features e manutenção. -->
 
-- [Squadra Digital](https://www.squadra.com.br/) - Analista de sistemas [3 meses]
+<!-- - [Squadra Digital](https://www.squadra.com.br/) - Analista de sistemas [3 meses]
 
   - Stack utilizada: Javascript, ReactJS, React Hooks, Material UI.
-  - Atividades: Atualização de portal parceiro. Manutenção e ajustes do sistema de atendimento ao cliente parceiro seguindo design system.
+  - Atividades: Atualização de portal parceiro. Manutenção e ajustes do sistema de atendimento ao cliente parceiro seguindo design system. -->
 
 - [Agilize Contabilide Online](https://www.agilize.com.br/) - Engenheiro de Software [8 meses]
 
