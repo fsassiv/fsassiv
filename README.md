@@ -4,7 +4,7 @@
 > Pós-graduando em Gestão de Projetos Ágeis (Lato Sensu)
 > Graduado em "Gestão de Tecnologia da Informação" pela Uninter
 
-### Languages: pt-BR, en-US
+### Languages: pt-BR, en-US (C1)
 
 - [Linkedin](https://www.linkedin.com/in/flavio-andrade-900552192/)
 - Email: <flavio.ssiv@gmail.com>
@@ -26,8 +26,8 @@
 | Mongo DB     | Php                   | React (Redux, Context, Router) |
 | Nuxt.js      | Wordpress             | Typescript                     |
 | React Native | PWA                   | Git                            |
-|              | Storybook             | CSS-IN-JS (styled-components)  |
-|              | Next.js               | Vue.js (Vuex, Vue Router)      |
+| NestJS       | Storybook             | CSS-IN-JS (styled-components)  |
+| TypeORM      | Next.js               | Vue.js (Vuex, Vue Router)      |
 
 <!-- ### DevOps
 Jenkins, Docker -->
