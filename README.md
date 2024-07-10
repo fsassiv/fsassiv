@@ -37,7 +37,7 @@ Jenkins, Docker -->
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Super Bid](https://www.superbid.net/) - [1 ano e 8 meses]
+- [Super Bid](https://www.superbid.net/) - [1 ano e 9 meses]
 
   - Stack utilizada: Typescript, Javascript, React, StyledComponents, Material-UI
   - Atividades: Atualização do sistemas em Micro FrontEnd, adição e features e manutenção.
