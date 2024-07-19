@@ -28,7 +28,7 @@
 | NestJS   | PWA                   | Git                            |
 | TypeORM  | Storybook             | CSS-IN-JS (styled-components)  |
 | Postgres | React Native          | Vue.js (Vuex, Vue Router)      |
-|          |                       | Next.js                        |
+| Prisma   |                       | Next.js                        |
 
 <!-- ### DevOps
 Jenkins, Docker -->
