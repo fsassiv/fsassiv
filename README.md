@@ -1,6 +1,6 @@
 # Flavio Santos de Andrade
 
-> Front-end Developer (React and NextJS) & Back-end Developer (Node+Express and NestJS)
+> Front-end Developer (React and NextJS) & Back-end Developer (Node + Express and NestJS)
 > Pós-graduando em Gestão de Projetos Ágeis (Lato Sensu)
 > Graduado em "Gestão de Tecnologia da Informação"
 
@@ -9,13 +9,11 @@
 - [Linkedin](https://www.linkedin.com/in/flavio-andrade-900552192/)
 - Email: <flavio.ssiv@gmail.com>
 - [071982320674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
-- Location: Salvador-BA
+- Location: Salvador-BA, Brasil
 
 ---
 
 ## Skills Set
-
-<!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
 | Junior              | Mid                   | Senior                         |
 | ------------------- | --------------------- | ------------------------------ |
@@ -28,7 +26,7 @@
 | TypeORM             | PWA                   | Git                            |
 | Python              | Storybook             | CSS-IN-JS (styled-components)  |
 | Prisma ORM          | Jest                  | Vue.js (Vuex, Vue Router)      |
-|                     | React Native          | Next.js                        |
+| Cypress             | React Native          | Next.js                        |
 |                     | NestJS                | Tailwind CSS                   |
 
 <!-- ### DevOps
