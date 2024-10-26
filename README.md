@@ -1,8 +1,8 @@
 # Flavio Santos de Andrade
 
-> Front-end Developer (React and Vue)
+> Front-end Developer (React and NextJS) & Back-end Developer (Node+Express and NestJS)
 > Pós-graduando em Gestão de Projetos Ágeis (Lato Sensu)
-> Graduado em "Gestão de Tecnologia da Informação" pela Uninter
+> Graduado em "Gestão de Tecnologia da Informação"
 
 ### Languages: pt-BR, en-US (C1)
 
