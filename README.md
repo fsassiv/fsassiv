@@ -26,10 +26,10 @@
 | Mongo DB & Mongoose | Php                   | React (Redux, Context, Router) |
 | Nuxt.js             | Wordpress             | Typescript                     |
 | TypeORM             | PWA                   | Git                            |
-| NestJS              | Storybook             | CSS-IN-JS (styled-components)  |
-| Python              | Jest                  | Vue.js (Vuex, Vue Router)      |
-| Prisma ORM          | React Native          | Next.js                        |
-|                     |                       |                                |
+| Python              | Storybook             | CSS-IN-JS (styled-components)  |
+| Prisma ORM          | Jest                  | Vue.js (Vuex, Vue Router)      |
+|                     | React Native          | Next.js                        |
+|                     | NestJS                | Tailwind CSS                   |
 
 <!-- ### DevOps
 Jenkins, Docker -->
