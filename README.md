@@ -17,23 +17,22 @@
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
-| Beginner | Intermediate          | Advanced                       |
-| -------- | --------------------- | ------------------------------ |
-| Jest     | React-testing-library | HTML                           |
-| GraphQL  | Webpack               | CSS                            |
-| Firebase | Node.js (Express.js)  | SASS                           |
-| MySQL    | Gulp                  | Javascript                     |
-| Mongo DB | Php                   | React (Redux, Context, Router) |
-| Nuxt.js  | Wordpress             | Typescript                     |
-| TypeORM  | PWA                   | Git                            |
-| NestJS   | Storybook             | CSS-IN-JS (styled-components)  |
-|          | Next.js               | Vue.js (Vuex, Vue Router)      |
-|          | React Native          |
+| Junior              | Mid                   | Senior                         |
+| ------------------- | --------------------- | ------------------------------ |
+| Postgres            | React-testing-library | HTML                           |
+| GraphQL             | Webpack               | CSS                            |
+| Firebase            | Node.js (Express.js)  | SASS                           |
+| MySQL               | Gulp                  | Javascript                     |
+| Mongo DB & Mongoose | Php                   | React (Redux, Context, Router) |
+| Nuxt.js             | Wordpress             | Typescript                     |
+| TypeORM             | PWA                   | Git                            |
+| NestJS              | Storybook             | CSS-IN-JS (styled-components)  |
+| Python              | Jest                  | Vue.js (Vuex, Vue Router)      |
+| Prisma ORM          | React Native          | Next.js                        |
+|                     |                       |                                |
 
 <!-- ### DevOps
 Jenkins, Docker -->
-
-<!-- Materialize CSS, Bulma CSS e Bootstrap. -->
 
 ## EXPERIÊNCIA PROFISSIONAL
 
