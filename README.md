@@ -18,7 +18,7 @@
 - **Email**: flavio.ssiv@gmail.com
 - **Phone/Whatsapp**: [+5571982320674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
 - **Location**: Salvador, Bahia, Brazil
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/flavio-andrade-900552192/)
+- [LinkedIn Profile](https://www.linkedin.com/in/flavio-andrade-dev/)
 
 ---
 
