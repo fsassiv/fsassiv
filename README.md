@@ -1,8 +1,10 @@
 # Flavio Santos de Andrade
 
-> Front-end Developer (React and NextJS) & Back-end Developer (Node + Express and NestJS)
-> Pós-graduando em Gestão de Projetos Ágeis (Lato Sensu)
-> Graduado em "Gestão de Tecnologia da Informação"
+#### Front-end Developer (React and NextJS) & Back-end Developer (Node + Express and NestJS)
+
+#### Pós-graduando em Gestão de Projetos Ágeis (Lato Sensu)
+
+#### Graduado em "Gestão de Tecnologia da Informação"
 
 ### Languages: pt-BR, en-US (C1)
 
@@ -29,8 +31,9 @@
 | Cypress             | React Native          | Next.js                        |
 |                     | NestJS                | Tailwind CSS                   |
 
-<!-- ### DevOps
-Jenkins, Docker -->
+### DevOps
+
+Docker, Azure DevOps
 
 ## EXPERIÊNCIA PROFISSIONAL
 
@@ -83,10 +86,6 @@ Jenkins, Docker -->
 
   - Stack utilizada: Wordpress, php, javascript, sass;
   - Atividades: Criação de websites corporativos e institucionais;
-
-- Keep Informatica - Estagio Front-end [5 meses]
-  - Stack utilizada: Wordpress, php, javascript, sass;
-  - Atividades: Helpdesk e atualização/manutenção do site atual da empresa. -->
 
 <!-- ## PROTFÓLIO
 
