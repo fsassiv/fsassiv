@@ -24,11 +24,11 @@
 
 ## Tech Skills
 
-| **Level**  | **Technologies**                                                                                                                                           |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Senior** | HTML, CSS, SASS, JavaScript, TypeScript, React (Redux, Context, Router), WordPress, Git, CSS-in-JS (Styled-Components), Vue.js (Vuex, Vue Router), Next.js |
-| **Mid**    | React Testing Library, NestJS, Webpack, Gulp, PHP, PWA, Storybook, Jest, React Native, Tailwind CSS, Cypress                                               |
-| **Junior** | PostgreSQL, GraphQL, Firebase, MySQL, MongoDB (Mongoose), Nuxt.js, TypeORM, Python, Prisma ORM                                                             |
+| **Level**  | **Technologies**                                                                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Senior** | HTML, CSS, SASS, JavaScript, TypeScript, React (Redux, Context, Router), WordPress, Git, CSS-in-JS (Styled-Components), Vue.js (Vuex, Vue Router), Next.js, Tailwind CSS |
+| **Mid**    | React Testing Library, NestJS, Webpack, Gulp, PHP, PWA, Storybook, Jest, React Native, Cypress                                                                           |
+| **Junior** | PostgreSQL, GraphQL, Firebase, MySQL, MongoDB (Mongoose), Nuxt.js, TypeORM, Python, Prisma ORM                                                                           |
 
 ---
 
