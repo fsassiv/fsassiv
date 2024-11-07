@@ -26,9 +26,9 @@
 
 | **Level**  | **Technologies**                                                                                                                                           |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Senior** | HTML, CSS, SASS, JavaScript, React (Redux, Context, Router), WordPress, TypeScript, Git, CSS-in-JS (Styled-Components), Vue.js (Vuex, Vue Router), Next.js |
-| **Mid**    | React Testing Library, Webpack, Gulp, PHP, PWA, Storybook, Jest, React Native, Tailwind CSS                                                                |
-| **Junior** | PostgreSQL, GraphQL, Firebase, MySQL, MongoDB (Mongoose), Nuxt.js, TypeORM, Python, Prisma ORM, Cypress, NestJS                                            |
+| **Senior** | HTML, CSS, SASS, JavaScript, TypeScript, React (Redux, Context, Router), WordPress, Git, CSS-in-JS (Styled-Components), Vue.js (Vuex, Vue Router), Next.js |
+| **Mid**    | React Testing Library, NestJS, Webpack, Gulp, PHP, PWA, Storybook, Jest, React Native, Tailwind CSS, Cypress                                               |
+| **Junior** | PostgreSQL, GraphQL, Firebase, MySQL, MongoDB (Mongoose), Nuxt.js, TypeORM, Python, Prisma ORM                                                             |
 
 ---
 
