@@ -43,7 +43,7 @@
 
 ### [Mazza FC](https://mazzafc.tech/)
 
-**Projects**: _Rateio Digital, Hapvida (Internal Systems)_  
+**Projects**: [ _Rateio Digital, Hapvida (Internal Systems)_ ]  
 **Role**: Frontend Developer  
 **Duration**: 2 years  
 **Stack**: TypeScript, React, Material-UI  
@@ -51,7 +51,7 @@
 
 ### [Imagine Beyond](https://www.imaginebeyond.com.br/)
 
-**Project**: _Warren Investimentos, RLP_  
+**Project**: [ _Warren Investimentos, RLP_ ]  
 **Role**: Frontend Developer  
 **Duration**: 1 year, 2 months  
 **Stack**: TypeScript, Vue, Vue Testing Library  
