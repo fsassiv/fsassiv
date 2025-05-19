@@ -1,5 +1,7 @@
 # Flavio Santos de Andrade
 
+[Versão PT-BR](./README_pt-BR.md)
+
 **Front-end & Back-end Developer**
 
 **Specializations**: Front-end (React, Next.js) | Back-end (Node.js, Express, NestJS)  
