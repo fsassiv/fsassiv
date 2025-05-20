@@ -1,78 +1,114 @@
 # Flavio Santos de Andrade
 
-[Versão PT-BR](./README_pt-BR.md)
+[Versão em Português 🇧🇷](./README_pt-BR.md)
 
-**Experienced Full Stack Developer with 5+ years specializing in React, Next.js, and Node.js. Proven track record in delivering scalable web applications and leading frontend architecture for high-traffic platforms. Passionate about clean code, UX, and continuous learning.**
+**Full Stack Developer with 5+ years of experience** focused on modern web technologies. Strong expertise in **React, Next.js, and Node.js**, with a track record of building scalable applications and leading front-end architecture for high-traffic platforms. Passionate about **clean code, performance, and user experience**.
 
-**Specializations**: Front-end (React, Next.js) | Back-end (Node.js, Express, NestJS)  
-**Education**:
+## 🎯 Summary
 
-- **Postgraduate in Agile Project Management (Lato Sensu)** – In Progress
+- Solid background in software engineering and agile methodologies.
+- Strong problem-solving skills and attention to maintainable, reusable code.
+- Comfortable working across the full stack, with a frontend focus.
+
+## 📚 Education
+
+- **Postgraduate in Agile Project Management** – _In Progress_
 - **Bachelor’s Degree in Information Technology Management**
 
-**Languages**:
+## 🌍 Languages
 
 - Portuguese (Native)
-- English (C1 Proficiency)
+- English (C1 – Advanced)
 
-**Contact Information**:
+## 📞 Contact
 
 - **Email**: flavio.ssiv@gmail.com
-- **Phone/Whatsapp**: [+5571982320674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
+- **Phone/WhatsApp**: [+55 71 98232-0674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
 - **Location**: Salvador, Bahia, Brazil
-- [LinkedIn Profile](https://www.linkedin.com/in/flavio-andrade-dev/)
+- [LinkedIn](https://www.linkedin.com/in/flavio-andrade-dev/)
+- [GitHub Profile](https://github.com/fsassiv)
 
 ---
 
-## Tech Skills
+## 🧠 Skill Set
 
-| **Level**        | **Technologies**                                                                                                                                                         |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Senior**       | HTML, CSS, SASS, JavaScript, TypeScript, React (Redux, Context, Router), WordPress, Git, CSS-in-JS (Styled-Components), Vue.js (Vuex, Vue Router), Next.js, Tailwind CSS |
-| **Mid**          | NestJS, React Native, React Testing Library, Webpack, Gulp, PHP, PWA, Storybook, Jest, Cypress                                                                           |
-| **Junior**       | PostgreSQL, GraphQL, Firebase, MySQL, MongoDB (Mongoose), Nuxt.js, TypeORM, Python, Prisma ORM                                                                           |
-| **Extra skills** | Functional programming, OOP JS/TS, ESNext, TDD, SPA, Design Patterns. Azure DevOps, Docker                                                                               |
+### 🧑‍💻 Frontend
+
+- **Languages & Tools**: HTML, CSS, SASS, JavaScript, TypeScript
+- **Frameworks & Libraries**: React (Redux, Context, Router), Next.js, Vue.js (Vuex, Vue Router), Nuxt.js, React Native
+- **Styling**: Tailwind CSS, Styled-Components
+- **Build Tools**: Webpack, Gulp
+- **Other**: WordPress, PWA, SPA, Storybook
+
+### 🔁 Backend
+
+- **Frameworks**: NestJS, Express.js
+- **Languages**: TypeScript, PHP, Python
+- **APIs**: REST, GraphQL
+- **Auth & Integration**: Firebase
+
+### 🧪 Testing
+
+- **Libraries**: Jest, Cypress, React Testing Library
+- **Practices**: TDD (Test-Driven Development)
+
+### 🧰 DevOps / Tools
+
+- **Version Control**: Git
+- **CI/CD & Cloud**: Azure DevOps
+- **Containers**: Docker
+
+### 🗄️ Databases & ORMs
+
+- **Relational**: PostgreSQL, MySQL
+- **NoSQL**: MongoDB (Mongoose), Firebase
+- **ORMs**: Prisma ORM, TypeORM
+
+### 📐 Engineering Practices
+
+- Object-Oriented Programming (OOP), Functional Programming
+- ESNext, Design Patterns
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
-### [Super Bid](https://www.superbid.net/)
+### Super Bid
 
-**Role**: Frontend Developer  
-**Duration**: 1 year, 9 months  
-**Stack**: TypeScript, JavaScript, React, Styled-Components, Material-UI  
-**Responsibilities**: Developed and maintained micro-frontend architecture, implemented new features, and maintained system functionalities.
+**Frontend Developer** (1 yr 9 mos)  
+**Stack**: TypeScript, React, Styled-Components, Material-UI
 
-### [Mazza FC](https://mazzafc.tech/)
+- Built and maintained micro-frontend architecture.
+- Delivered new features and handled core functionality maintenance.
 
-**Projects**: [ _Rateio Digital, Hapvida (Internal Systems)_ ]  
-**Role**: Frontend Developer  
-**Duration**: 2 years  
-**Stack**: TypeScript, React, Material-UI  
-**Responsibilities**: System updates and maintenance, feature development, rewrite of legacy system versions, and new feature implementations.
+### Mazza FC
 
-### [Imagine Beyond](https://www.imaginebeyond.com.br/)
+**Frontend Developer** (2 yrs)  
+**Projects**: Rateio Digital, Hapvida Internal Systems  
+**Stack**: TypeScript, React, Material-UI
 
-**Project**: [ _Warren Investimentos, RLP_ ]  
-**Role**: Frontend Developer  
-**Duration**: 1 year, 2 months  
-**Stack**: TypeScript, Vue, Vue Testing Library  
-**Responsibilities**: Maintained and updated systems, implemented new features, and performed ongoing maintenance.
+- Refactored legacy code and implemented new features across internal systems.
 
-### [K2 PARTNERING SOLUTIONS DO BRASIL CONSULTORIA EM TECNOLOGIA DA INFORMAÇÃO LTDA](https://k2partnering.com/)
+### Imagine Beyond
 
-**Project**: [_Docway_](https://docway.com.br/)  
-**Role**: Frontend Developer  
-**Duration**: 1 year  
-**Stack**: TypeScript, JavaScript, React, Styled-Components  
-**Responsibilities**: Updated and maintained telemedicine systems, developed new features, and supported system functionality.
+**Frontend Developer** (1 yr 2 mos)  
+**Project**: Warren Investimentos (RLP)  
+**Stack**: TypeScript, Vue, Vue Testing Library
 
-### [Agilize Contabilide Online](https://www.agilize.com.br/)
+- Updated financial platform frontends and contributed to feature development.
 
-**Role**: Software Engineer  
-**Duration**: 8 months  
-**Stack**: TypeScript, React, React Hooks, Context API, Storybook, Jest, React Testing Library, Styled-Components, Material-UI  
-**Responsibilities**: Enhanced legacy accounting systems, developed a new version, and created a UX-focused design system.
+### K2 Partnering Solutions (Docway)
+
+**Frontend Developer** (1 yr)  
+**Stack**: TypeScript, React, Styled-Components
+
+- Maintained telemedicine platforms and developed key user-facing features.
+
+### Agilize Contabilidade Online
+
+**Software Engineer** (8 mos)  
+**Stack**: TypeScript, React, Context API, Storybook, Jest
+
+- Revamped legacy systems and built a new design system focused on UX.
 
 ---

@@ -1,77 +1,114 @@
-
 # Flavio Santos de Andrade
 
-**Desenvolvedor Front-end & Back-end**
+[English Version 🇺🇸](./README.md)
 
-**Especializações**: Front-end (React, Next.js) | Back-end (Node.js, Express, NestJS)  
-**Formação**:
+**Desenvolvedor Full Stack com mais de 5 anos de experiência** em tecnologias modernas da web. Forte expertise em **React, Next.js e Node.js**, com histórico em aplicações escaláveis e liderança de arquitetura frontend para plataformas de alto tráfego. Apaixonado por **código limpo, performance e experiência do usuário**.
 
-- **Pós-graduação em Gestão Ágil de Projetos (Lato Sensu)** – Em andamento
+## 🎯 Resumo
+
+- Sólida base em engenharia de software e metodologias ágeis.
+- Foco em resolução de problemas e manutenção de código reutilizável.
+- Atuação full stack, com especialidade no frontend.
+
+## 📚 Formação Acadêmica
+
+- **Pós-graduação em Gestão Ágil de Projetos** – _Em andamento_
 - **Bacharelado em Gestão da Tecnologia da Informação**
 
-**Idiomas**:
+## 🌍 Idiomas
 
 - Português (Nativo)
-- Inglês (Proficiência C1)
+- Inglês (C1 – Avançado)
 
-**Informações de Contato**:
+## 📞 Contato
 
 - **Email**: flavio.ssiv@gmail.com
-- **Telefone/Whatsapp**: [+5571982320674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
+- **Telefone/WhatsApp**: [+55 71 98232-0674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
 - **Localização**: Salvador, Bahia, Brasil
-- [Perfil no LinkedIn](https://www.linkedin.com/in/flavio-andrade-dev/)
+- [LinkedIn](https://www.linkedin.com/in/flavio-andrade-dev/)
+- [GitHub Profile](https://github.com/fsassiv)
 
 ---
 
-## Habilidades Técnicas
+## 🧠 Competências Técnicas
 
-| **Nível**        | **Tecnologias**                                                                                                                                                          |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sênior**       | HTML, CSS, SASS, JavaScript, TypeScript, React (Redux, Context, Router), WordPress, Git, CSS-in-JS (Styled-Components), Vue.js (Vuex, Vue Router), Next.js, Tailwind CSS |
-| **Pleno**        | React Testing Library, NestJS, Webpack, Gulp, PHP, PWA, Storybook, Jest, React Native, Cypress                                                                           |
-| **Júnior**       | PostgreSQL, GraphQL, Firebase, MySQL, MongoDB (Mongoose), Nuxt.js, TypeORM, Python, Prisma ORM                                                                           |
-| **Extras**       | Programação Funcional, POO JS/TS, ESNext, TDD, SPA, Design Patterns, Azure DevOps, Docker                                                                                |
+### 🧑‍💻 Frontend
+
+- **Linguagens & Ferramentas**: HTML, CSS, SASS, JavaScript, TypeScript
+- **Frameworks e Bibliotecas**: React (Redux, Context, Router), Next.js, Vue.js (Vuex, Vue Router), Nuxt.js, React Native
+- **Estilização**: Tailwind CSS, Styled-Components
+- **Ferramentas de Build**: Webpack, Gulp
+- **Outros**: WordPress, PWA, SPA, Storybook
+
+### 🔁 Backend
+
+- **Frameworks**: NestJS, Express.js
+- **Linguagens**: TypeScript, PHP, Python
+- **APIs**: REST, GraphQL
+- **Autenticação & Integração**: Firebase
+
+### 🧪 Testes
+
+- **Bibliotecas**: Jest, Cypress, React Testing Library
+- **Práticas**: TDD (Desenvolvimento Orientado a Testes)
+
+### 🧰 DevOps / Ferramentas
+
+- **Controle de Versão**: Git
+- **CI/CD & Cloud**: Azure DevOps
+- **Containers**: Docker
+
+### 🗄️ Bancos de Dados & ORMs
+
+- **Relacionais**: PostgreSQL, MySQL
+- **NoSQL**: MongoDB (Mongoose), Firebase
+- **ORMs**: Prisma ORM, TypeORM
+
+### 📐 Práticas de Engenharia
+
+- Programação Orientada a Objetos (OOP), Programação Funcional
+- ESNext, Design Patterns
 
 ---
 
-## Experiência Profissional
+## 💼 Experiência Profissional
 
-### [Super Bid](https://www.superbid.net/)
+### Super Bid
 
-**Cargo**: Desenvolvedor Front-end  
-**Duração**: 1 ano e 9 meses  
-**Tecnologias**: TypeScript, JavaScript, React, Styled-Components, Material-UI  
-**Atividades**: Desenvolvimento e manutenção da arquitetura de micro-frontends, implementação de novas funcionalidades e manutenção dos sistemas existentes.
+**Desenvolvedor Frontend** (1 ano e 9 meses)  
+**Stack**: TypeScript, React, Styled-Components, Material-UI
 
-### [Mazza FC](https://mazzafc.tech/)
+- Desenvolvimento de arquitetura micro-frontend.
+- Implementação de novas funcionalidades e manutenção de sistemas.
 
-**Projetos**: [_Rateio Digital, Hapvida (Sistemas Internos)_]  
-**Cargo**: Desenvolvedor Front-end  
-**Duração**: 2 anos  
-**Tecnologias**: TypeScript, React, Material-UI  
-**Atividades**: Atualizações e manutenção de sistemas, desenvolvimento de funcionalidades, reescrita de versões legadas e implementação de novas funcionalidades.
+### Mazza FC
 
-### [Imagine Beyond](https://www.imaginebeyond.com.br/)
+**Desenvolvedor Frontend** (2 anos)  
+**Projetos**: Rateio Digital, Sistemas Internos Hapvida  
+**Stack**: TypeScript, React, Material-UI
 
-**Projeto**: [_Warren Investimentos, RLP_ ]  
-**Cargo**: Desenvolvedor Front-end  
-**Duração**: 1 ano e 2 meses  
-**Tecnologias**: TypeScript, Vue, Vue Testing Library  
-**Atividades**: Manutenção e atualização de sistemas, implementação de novas funcionalidades e suporte contínuo.
+- Refatoração de código legado e desenvolvimento de novas features.
 
-### [K2 Partnering Solutions - Docway](https://k2partnering.com/)
+### Imagine Beyond
 
-**Projeto**: [_Docway_](https://docway.com.br/)  
-**Cargo**: Desenvolvedor Front-end  
-**Duração**: 1 ano  
-**Tecnologias**: TypeScript, JavaScript, React, Styled-Components  
-**Atividades**: Atualização e manutenção de sistemas de telemedicina, desenvolvimento de novas funcionalidades e garantia do funcionamento do sistema.
+**Desenvolvedor Frontend** (1 ano e 2 meses)  
+**Projeto**: Warren Investimentos (RLP)  
+**Stack**: TypeScript, Vue, Vue Testing Library
 
-### [Agilize Contabilidade Online](https://www.agilize.com.br/)
+- Manutenção e evolução de plataformas financeiras.
 
-**Cargo**: Engenheiro de Software  
-**Duração**: 8 meses  
-**Tecnologias**: TypeScript, React, React Hooks, Context API, Storybook, Jest, React Testing Library, Styled-Components, Material-UI  
-**Atividades**: Melhoria de sistemas contábeis legados, desenvolvimento de uma nova versão e criação de um design system focado em UX.
+### K2 Partnering Solutions (Docway)
+
+**Desenvolvedor Frontend** (1 ano)  
+**Stack**: TypeScript, React, Styled-Components
+
+- Manutenção de sistemas de telemedicina e desenvolvimento de funcionalidades.
+
+### Agilize Contabilidade Online
+
+**Engenheiro de Software** (8 meses)  
+**Stack**: TypeScript, React, Context API, Storybook, Jest
+
+- Modernização de sistemas contábeis e criação de um design system centrado no usuário.
 
 ---
