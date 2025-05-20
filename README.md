@@ -2,7 +2,7 @@
 
 [Versão PT-BR](./README_pt-BR.md)
 
-**Front-end & Back-end Developer**
+**Experienced Full Stack Developer with 5+ years specializing in React, Next.js, and Node.js. Proven track record in delivering scalable web applications and leading frontend architecture for high-traffic platforms. Passionate about clean code, UX, and continuous learning.**
 
 **Specializations**: Front-end (React, Next.js) | Back-end (Node.js, Express, NestJS)  
 **Education**:
@@ -29,7 +29,7 @@
 | **Level**        | **Technologies**                                                                                                                                                         |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Senior**       | HTML, CSS, SASS, JavaScript, TypeScript, React (Redux, Context, Router), WordPress, Git, CSS-in-JS (Styled-Components), Vue.js (Vuex, Vue Router), Next.js, Tailwind CSS |
-| **Mid**          | React Testing Library, NestJS, Webpack, Gulp, PHP, PWA, Storybook, Jest, React Native, Cypress                                                                           |
+| **Mid**          | NestJS, React Native, React Testing Library, Webpack, Gulp, PHP, PWA, Storybook, Jest, Cypress                                                                           |
 | **Junior**       | PostgreSQL, GraphQL, Firebase, MySQL, MongoDB (Mongoose), Nuxt.js, TypeORM, Python, Prisma ORM                                                                           |
 | **Extra skills** | Functional programming, OOP JS/TS, ESNext, TDD, SPA, Design Patterns. Azure DevOps, Docker                                                                               |
 
