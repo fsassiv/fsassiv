@@ -22,11 +22,11 @@
 
 ## 📞 Contact
 
+- [LinkedIn](https://www.linkedin.com/in/flavio-andrade-dev/)
+- [GitHub Profile](https://github.com/fsassiv)
 - **Email**: flavio.ssiv@gmail.com
 - **Phone/WhatsApp**: [+55 71 98232-0674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
 - **Location**: Salvador, Bahia, Brazil
-- [LinkedIn](https://www.linkedin.com/in/flavio-andrade-dev/)
-- [GitHub Profile](https://github.com/fsassiv)
 
 ---
 
