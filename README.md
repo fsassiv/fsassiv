@@ -35,7 +35,7 @@
 ### 🧑‍💻 Frontend
 
 - **Languages & Tools**: HTML, CSS, SASS, JavaScript, TypeScript
-- **Frameworks & Libraries**: React (Redux, Context, Router), Next.js, Vue.js (Vuex, Vue Router), Nuxt.js, React Native
+- **Frameworks & Libraries**: React (Redux, Context, Router), Next.js, Vue.js (Vuex, Vue Router), Nuxt.js, Angular 18, React Native
 - **Styling**: Tailwind CSS, Styled-Components
 - **Build Tools**: Webpack, Gulp
 - **Other**: WordPress, PWA, SPA, Storybook
