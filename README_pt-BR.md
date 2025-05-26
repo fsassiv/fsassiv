@@ -60,7 +60,7 @@
 
 ### 🗄️ Bancos de Dados & ORMs
 
-- **Relacionais**: PostgreSQL, MySQL
+- **Relacionais**: PostgresSQL, MySQL
 - **NoSQL**: MongoDB (Mongoose), Firebase
 - **ORMs**: Prisma ORM, TypeORM
 

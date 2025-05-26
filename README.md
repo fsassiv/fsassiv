@@ -60,7 +60,7 @@
 
 ### 🗄️ Databases & ORMs
 
-- **Relational**: PostgreSQL, MySQL
+- **Relational**: PostgresSQL, MySQL
 - **NoSQL**: MongoDB (Mongoose), Firebase
 - **ORMs**: Prisma ORM, TypeORM
 
