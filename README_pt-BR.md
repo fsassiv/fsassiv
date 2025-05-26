@@ -43,7 +43,7 @@
 ### 🔁 Backend
 
 - **Frameworks**: NestJS, Express.js
-- **Linguagens**: TypeScript, PHP, Python
+- **Linguagens**: TypeScript
 - **APIs**: REST, GraphQL
 - **Autenticação & Integração**: Firebase
 
