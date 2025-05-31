@@ -61,8 +61,9 @@
 ### 🗄️ Bancos de Dados & ORMs
 
 - **Relacionais**: PostgresSQL, MySQL
-- **NoSQL**: MongoDB (Mongoose), Firebase
+- **NoSQL**: MongoDB (Mongoose), Redis, Firebase
 - **ORMs**: Prisma ORM, TypeORM
+- **Messaging & Queues**: RabbitMQ
 
 ### 📐 Práticas de Engenharia
 

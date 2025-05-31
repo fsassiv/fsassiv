@@ -60,9 +60,10 @@
 
 ### 🗄️ Databases & ORMs
 
-- **Relational**: PostgresSQL, MySQL
-- **NoSQL**: MongoDB (Mongoose), Firebase
+- **Relacionais**: PostgresSQL, MySQL
+- **NoSQL**: MongoDB (Mongoose), Redis, Firebase
 - **ORMs**: Prisma ORM, TypeORM
+- **Messaging & Queues**: RabbitMQ
 
 ### 📐 Engineering Practices
 
