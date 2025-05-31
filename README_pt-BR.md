@@ -18,7 +18,7 @@
 ## 🌍 Idiomas
 
 - Português (Nativo)
-- Inglês (C1 – Avançado)
+- Inglês (C2 – Proficiência)
 
 ## 📞 Contato
 

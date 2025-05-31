@@ -18,7 +18,7 @@
 ## 🌍 Languages
 
 - Portuguese (Native)
-- English (C1 – Advanced)
+- English (C2 – proficiency)
 
 ## 📞 Contact
 
