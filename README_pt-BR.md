@@ -44,8 +44,8 @@
 
 - **Frameworks**: NestJS, Express.js
 - **Linguagens**: TypeScript
-- **APIs**: REST, GraphQL
-- **Autenticação & Integração**: Firebase
+- **APIs**: REST, GraphQL, gRPC
+- **Autenticação & Integração**: Firebase, OAuth2, JWT
 
 ### 🧪 Testes
 
