@@ -12,7 +12,8 @@
 
 ## 📚 Formação Acadêmica
 
-- **Pós-graduação em Gestão Ágil de Projetos** – _Em andamento_
+<!-- - **Pós-graduação em Gestão Ágil de Projetos** – _Em andamento_ -->
+
 - **Bacharelado em Gestão da Tecnologia da Informação**
 
 ## 🌍 Idiomas
@@ -35,7 +36,7 @@
 ### 🧑‍💻 Frontend
 
 - **Linguagens & Ferramentas**: HTML, CSS, SASS, JavaScript, TypeScript
-- **Frameworks e Bibliotecas**: React (Redux, Context, Router), Next.js, Vue.js (Vuex, Vue Router), Nuxt.js, Angular 18, React Native
+- **Frameworks e Bibliotecas**: React (Redux, Context, Router), Next.js, Vue.js (Vuex, Vue Router), Nuxt.js, React Native
 - **Estilização**: Tailwind CSS, Styled-Components
 - **Ferramentas de Build**: Webpack, Gulp
 - **Outros**: WordPress, PWA, SPA, Storybook
@@ -43,7 +44,8 @@
 ### 🔁 Backend
 
 - **Frameworks**: NestJS, Express.js
-- **Linguagens**: TypeScript
+- **Linguagens**: TypeScript, Python
+- **Arquitetura**: Microserviços, Serverless
 - **APIs**: REST, GraphQL, gRPC
 - **Autenticação & Integração**: Firebase, OAuth2, JWT
 

@@ -12,7 +12,8 @@
 
 ## 📚 Education
 
-- **Postgraduate in Agile Project Management** – _In Progress_
+<!-- - **Postgraduate in Agile Project Management** – _In Progress_ -->
+
 - **Bachelor’s Degree in Information Technology Management**
 
 ## 🌍 Languages
@@ -35,7 +36,7 @@
 ### 🧑‍💻 Frontend
 
 - **Languages & Tools**: HTML, CSS, SASS, JavaScript, TypeScript
-- **Frameworks & Libraries**: React (Redux, Context, Router), Next.js, Vue.js (Vuex, Vue Router), Nuxt.js, Angular 18, React Native
+- **Frameworks & Libraries**: React (Redux, Context, Router), Next.js, Vue.js (Vuex, Vue Router), Nuxt.js, React Native
 - **Styling**: Tailwind CSS, Styled-Components
 - **Build Tools**: Webpack, Gulp
 - **Other**: WordPress, PWA, SPA, Storybook
@@ -43,9 +44,10 @@
 ### 🔁 Backend
 
 - **Frameworks**: NestJS, Express.js
-- **Languages**: TypeScript
+- **Languages**: TypeScript, Python
+- **Architecture**: Microservices, Serverless
 - **APIs**: REST, GraphQL, gRPC
-- **Autenticação & Integração**: Firebase, OAuth2, JWT
+- **Authentication & Integration**: Firebase, OAuth2, JWT
 
 ### 🧪 Testing
 
