@@ -2,7 +2,7 @@
 
 [English Version 🇺🇸](./README.md)
 
-**Desenvolvedor Full Stack com mais de 5 anos de experiência** em tecnologias modernas da web. Forte expertise em **React, Next.js e Node.js**, com histórico em aplicações escaláveis e liderança de arquitetura frontend para plataformas de alto tráfego. Apaixonado por **código limpo, performance e experiência do usuário**.
+**Desenvolvedor Full Stack com mais de 5 anos de experiência** em tecnologias modernas da web. Forte expertise em **React, Next.js e Nest.js**, com histórico em aplicações escaláveis e liderança de arquitetura frontend para plataformas de alto tráfego. Apaixonado por **código limpo, performance e experiência do usuário**.
 
 ## 🎯 Resumo
 

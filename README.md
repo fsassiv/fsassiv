@@ -2,7 +2,7 @@
 
 [Versão em Português 🇧🇷](./README_pt-BR.md)
 
-**Full Stack Developer with 5+ years of experience** focused on modern web technologies. Strong expertise in **React, Next.js, and Node.js**, with a track record of building scalable applications and leading front-end architecture for high-traffic platforms. Passionate about **clean code, performance, and user experience**.
+**Full Stack Developer with 5+ years of experience** focused on modern web technologies. Strong expertise in **React, Next.js, and Nest.js**, with a track record of building scalable applications and leading front-end architecture for high-traffic platforms. Passionate about **clean code, performance, and user experience**.
 
 ## 🎯 Summary
 
