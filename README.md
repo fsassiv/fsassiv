@@ -43,7 +43,7 @@
 
 ### 🔁 Backend
 
-- **Frameworks**: NestJS, Express.js
+- **Frameworks**: NestJS, Express.js, Flask, FastAPI
 - **Languages**: TypeScript, Python
 - **Architecture**: Microservices, Serverless
 - **APIs**: REST, GraphQL, gRPC
@@ -57,7 +57,7 @@
 ### 🧰 DevOps / Tools
 
 - **Version Control**: Git
-- **CI/CD & Cloud**: Azure DevOps
+- **CI/CD & Cloud**: Azure DevOps, Google Cloud Platform (GCP)
 - **Containers**: Docker
 
 ### 🗄️ Databases & ORMs
