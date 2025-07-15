@@ -76,6 +76,16 @@
 
 ## 💼 Professional Experience
 
+### Capgemini
+
+**Desenvolvedor FullStack (React, Python)** Current  
+**Stack**: TypeScript, React, Python, Flask, Docker
+
+- Maintenance of telemedicine systems and development of new features.
+- Implementation of new functionalities and system maintenance.
+- Communication and ticketing system with microservices architecture and integration with channels such as Telegram, WhatsApp, and email.
+- DialogFlow flow with AI integration
+
 ### Super Bid
 
 **Frontend Developer** (1 yr 9 mos)  
