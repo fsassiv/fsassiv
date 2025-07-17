@@ -78,7 +78,7 @@
 
 ### Capgemini
 
-**Desenvolvedor FullStack (React, Python)** Atual  
+**Desenvolvedor FullStack (React, Python, Flask)** Atual  
 **Stack**: TypeScript, React, Python, Flask, Docker
 
 - Manutenção de sistemas de telemedicina e desenvolvimento de funcionalidades.
